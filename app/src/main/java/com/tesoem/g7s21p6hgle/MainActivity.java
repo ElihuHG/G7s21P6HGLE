@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
             comidaFavorita.setText(datos.getComidaFavorita());
             colorFavorito.setText(datos.getColorFavorito());
             numFavorito.setText(datos.getNumFavorito());
+            Toast.makeText(this, "Los datos se han convertido", Toast.LENGTH_SHORT).show();
 
 
         }catch (Exception e){
