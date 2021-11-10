@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">G7s21P6HGLE</string>
+    <string name="titulo">Ingresa una cadena json</string>
+    <string name="cadenj">Aquí va la cadena</string>
+    <string name="titulo2">Salida de datos</string>
+    <string name="nombre">Nombre:</string>
+    <string name="puntitos">...</string>
+    <string name="color">Color\nfavorito:</string>
+    <string name="comida">Comida\nfavorita:</string>
+    <string name="numero">Número\nfavorito:</string>
+    <string name="boton">Obtener datos</string>
+</resources>
